@@ -61,6 +61,10 @@ namechange
 {VALUE}
 If you'd like to change your name, you can do so by going to Settings and then changing it from there.
 
+Android: Telegram Settings > Tap the three dots at the top right > Edit name
+
+iOS: Telegram Settings > Edit
+
 {QUESTION}
 (Something that's not a question)
 {KEYS}
@@ -86,7 +90,7 @@ language
 changelanguage
 changelang
 {VALUE}
-Change the language by going over to Settings and finding the Language option.
+You can change the language that Telegram is displayed in by going over to Settings and finding the Language option.
 
 {QUESTION}
 How do I set my status to offline?
@@ -94,7 +98,7 @@ How do I set my status to offline?
 offline
 offlinestatus
 {VALUE}
-There isn't a way to set your status to "offline" or "invisible" to everyone at the moment. You can block a user and you will appear as "last seen a long time ago" to them, though.
+There isn't a way to set your status to "offline" or "invisible" to everyone at the moment. You can block a user and you will appear as "last seen a long time ago" to them, though. Ask me if you'd like to know about blocking on Telegram.
 
 {COMMENT}
 Thanks (again) to @nullvalue.
@@ -114,7 +118,7 @@ voip
 gvoice
 googlevoice
 {VALUE}
-You can't, sorry. VOIP numbers such as Google Voice are not currently supported on Telegram.
+You can't set up a VOIP number, sorry. VOIP numbers such as Google Voice are not currently supported on Telegram.
 
 {QUESTION}
 How do I change the chat bubble colors?
@@ -122,7 +126,7 @@ How do I change the chat bubble colors?
 bubble
 bubblecolor
 {VALUE}
-You can't change the color of your text bubbles in Telegram, sorry. We may add this in the future, though. Who knows?
+You can't change the color of your text bubbles in Telegram, sorry.
 
 {QUESTION}
 What is shared media? How do I add to it?
@@ -152,46 +156,6 @@ noloadvideo
 {VALUE}
 We are aware of this issue and are investigating.
 
-You may need to clear your cache to get the video to work after we are done. In a few hours, please try clearing your cache:
-
-iOS: Settings > Chat Settings > Cache Settings
-
-Android: Settings > Cache Settings
-
-WP: Settings > Cache
-
-We'll get back to you once we have solved this. Here's a technical hashtag to help us find your question: #issue_4LxN8YKG
-
-{QUESTION}
-A video someone sent isn't loading! Help?
-{KEYS}
-videoa
-blackvideo
-videoblack
-noloadvideo
-{VALUE}
-We are aware of this issue and are investigating.
-
-You may need to clear your cache to get the video to work after we are done. In a few hours, please try clearing your cache:
-
-Android: Settings > Cache Settings
-
-We'll get back to you once we have solved this. Here's a technical hashtag to help us find your question: #issue_4LxN8YKG
-
-{QUESTION}
-A video someone sent isn't loading! Help?
-{KEYS}
-videoi
-blackvideo
-videoblack
-noloadvideo
-{VALUE}
-We are aware of this issue and are investigating.
-
-You may need to clear your cache to get the video to work after we are done. In a few hours, please try clearing your cache:
-
-iOS: Settings > Chat Settings > Cache Settings
-
 We'll get back to you once we have solved this. Here's a technical hashtag to help us find your question: #issue_4LxN8YKG
 
 {QUESTION}
@@ -210,7 +174,7 @@ convertosupergroupandroid
 {VALUE}
 If you want to upgrade your group to a supergroup, go to Group Info and choose 'Upgrade to Supergroup'. This action is irreversible, sorry — so please consider all the differences below, and ask me if anything is unclear, before you upgrade.
 
-Here is some info to consider before upgrading: 
+Here is some info to consider before upgrading:
 
 Supergroups can have up to 5000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
 
