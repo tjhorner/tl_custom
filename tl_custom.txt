@@ -1,0 +1,236 @@
+{URL}
+https://cloud.horner.tj/tsupport.txt
+
+{QUESTION}
+How do I join a group?
+{KEYS}
+joingroup
+jgroup
+{VALUE}
+To join a group, you can do these things:
+
+- Ask someone from that group to invite you.
+- Ask an admin of that group for an invite link. Click that link and you should be able to join.
+
+{QUESTION}
+How do I delete messages?
+{KEYS}
+delmsg
+deletemessage
+{VALUE}
+img:templates/delmsg.png
+You can delete your own a message from any chat, but they will only appear deleted to everyone else in supergroups.
+
+Android: Hold down the message > Tap the trash can icon in the top right
+
+iOS: Hold down the message > Tap the trash can icon in the bottom left
+
+{QUESTION}
+The problem is solved, hooray!
+{KEYS}
+great
+bye
+endchat
+{VALUE}
+Great! If you have any more questions, don't hesitate to contact us again.
+
+{QUESTION}
+Thanks so much!
+{KEYS}
+np
+welcome
+yourewelcome
+{VALUE}
+No problem! If you have any more questions, don't hesitate to contact us again.
+
+{QUESTION}
+I have [x] issue, how do I solve it?!
+{KEYS}
+checktrello
+checkissue
+lookupissue
+{VALUE}
+Hmmm... let me see if anyone else is having that issue right now.
+
+{QUESTION}
+I'd like to change my Telegram name.
+{KEYS}
+changename
+cname
+namechange
+{VALUE}
+If you'd like to change your name, you can do so by going to Settings and then changing it from there.
+
+{QUESTION}
+(Something that's not a question)
+{KEYS}
+havequestion
+question
+{VALUE}
+Do you have a question about Telegram?
+
+{COMMENT}
+Thanks @nullbytes for this one.
+{QUESTION}
+Do you know when [x] feature will be released?
+{KEYS}
+feature
+planned
+{VALUE}
+In general, we do not know the plans of the Telegram team until new features are released.
+
+{QUESTION}
+How do I change the language?
+{KEYS}
+language
+changelanguage
+changelang
+{VALUE}
+Change the language by going over to Settings and finding the Language option.
+
+{QUESTION}
+How do I set my status to offline?
+{KEYS}
+offline
+offlinestatus
+{VALUE}
+There isn't a way to set your status to "offline" or "invisible" to everyone at the moment. You can block a user and you will appear as "last seen a long time ago" to them, though.
+
+{COMMENT}
+Thanks (again) to @nullvalue.
+{QUESTION}
+You people are taking too damn long!
+{KEYS}
+delay
+sorrydelay
+sorry
+{VALUE}
+Sorry for the delay, we are volunteers and we do not always have people on. We also receive many messages each day, much more than we have volunteers for, so we are not able to respond to everyone in support chat.
+
+{QUESTION}
+How do I set up an account from a VOIP/Google Voice number?
+{KEYS}
+voip
+gvoice
+googlevoice
+{VALUE}
+You can't, sorry. VOIP numbers such as Google Voice are not currently supported on Telegram.
+
+{QUESTION}
+How do I change the chat bubble colors?
+{KEYS}
+bubble
+bubblecolor
+{VALUE}
+You can't change the color of your text bubbles in Telegram, sorry. We may add this in the future, though. Who knows?
+
+{QUESTION}
+What is shared media? How do I add to it?
+{KEYS}
+sharedmedia
+media
+{VALUE}
+Shared media is simply all of the media (photos, videos, links, files, etc.) you've sent to your chat partner or group.
+
+To add to this "shared media" page, just send any type of media like you would in the chat normally!
+
+{QUESTION}
+(Use this when a user seems like they don't know when they're chatting with support.)
+{KEYS}
+mistake
+thisissupport
+{VALUE}
+Hi, you've reached Telegram support! Do you have a question about Telegram? I'd be glad to answer it!
+
+{QUESTION}
+A video someone sent isn't loading! Help?
+{KEYS}
+video
+blackvideo
+videoblack
+noloadvideo
+{VALUE}
+We are aware of this issue and are investigating.
+
+You may need to clear your cache to get the video to work after we are done. In a few hours, please try clearing your cache:
+
+iOS: Settings > Chat Settings > Cache Settings
+
+Android: Settings > Cache Settings
+
+WP: Settings > Cache
+
+We'll get back to you once we have solved this. Here's a technical hashtag to help us find your question: #issue_4LxN8YKG
+
+{QUESTION}
+A video someone sent isn't loading! Help?
+{KEYS}
+videoa
+blackvideo
+videoblack
+noloadvideo
+{VALUE}
+We are aware of this issue and are investigating.
+
+You may need to clear your cache to get the video to work after we are done. In a few hours, please try clearing your cache:
+
+Android: Settings > Cache Settings
+
+We'll get back to you once we have solved this. Here's a technical hashtag to help us find your question: #issue_4LxN8YKG
+
+{QUESTION}
+A video someone sent isn't loading! Help?
+{KEYS}
+videoi
+blackvideo
+videoblack
+noloadvideo
+{VALUE}
+We are aware of this issue and are investigating.
+
+You may need to clear your cache to get the video to work after we are done. In a few hours, please try clearing your cache:
+
+iOS: Settings > Chat Settings > Cache Settings
+
+We'll get back to you once we have solved this. Here's a technical hashtag to help us find your question: #issue_4LxN8YKG
+
+{QUESTION}
+How to convert group to Supergroup?
+{KEYS}
+converttosupergroup
+converttosg
+convertgroup
+upgradegroup
+upgradetosupergroup
+over200
+morethan200
+converttosupergroupios
+converttosupergroupdesktop
+convertosupergroupandroid
+{VALUE}
+If you want to upgrade your group to a supergroup, go to Group Info and choose 'Upgrade to Supergroup'. This action is irreversible, sorry — so please consider all the differences below, and ask me if anything is unclear, before you upgrade.
+
+Here is some info to consider before upgrading: 
+
+Supergroups can have up to 5000 members. They have a unified history, so deleted messages will disappear for everyone, and ordinary members can only delete their own messages.
+
+Here's some extra information on how supergroups work:
+- The entire message history is visible to new members that join the chat.
+- They are muted by default and send fewer joined/left notifications.
+- Admins can use pinned messages, displayed at the top of the chat, to inform members about important news that they might otherwise miss.
+- They can be made public by setting a Username, just like channels.
+- If made public, members can invite new people, if not, they can only join via invite link or if added by admins.
+
+{QUESTION}
+I got a new number and don't have access to my old Telegram account. Can I transfer my chats over to my new number?
+{KEYS}
+newnumber
+transferchats
+transfer
+transfermsg
+{VALUE}
+If you don't have any other way to access that Telegram account and don't have access to the SMS from the old phone number, there's no way to access your old account. Sorry.
+
+If you ever get a new number in the future, please follow these steps to update your Telegram account with the new number:
+
+Go to Telegram Settings > Phone number > Change number > type in your new number. If necessary, enter the code you will receive via an SMS to the new number - done!
