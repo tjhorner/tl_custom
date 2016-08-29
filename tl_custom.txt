@@ -2,6 +2,14 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+¯\_(ツ)_/¯
+{KEYS}
+shrug
+shruge
+{VALUE}
+¯\_(ツ)_/¯
+
+{QUESTION}
 How do I join a group?
 {KEYS}
 joingroup
