@@ -2,6 +2,19 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+What is Telegram Gold?
+{KEYS}
+gold
+tgold
+telegramgold
+whatistgold
+whatistelegramgold
+{VALUE}
+"Telegram Gold" is a hoax. Any sticker packs claiming that you need "Telegram Gold" to view them are just the same image over and over again.
+
+Making money will never be a goal for Telegram — but if we do ever run out of funds, we may introduce some paid non-essential options. But that won't be for a while. Check out the FAQ for more: https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
+
+{QUESTION}
 How do I print/save messages?
 {KEYS}
 pdf
