@@ -15,6 +15,14 @@ whatistelegramgold
 Making money will never be a goal for Telegram — but if we do ever run out of funds, we may introduce some paid non-essential options. But that won't be for a while. Check out the FAQ for more: https://telegram.org/faq#q-how-are-you-going-to-make-money-out-of-this
 
 {QUESTION}
+The header on all of my chats is gone on iOS 10!
+{KEYS}
+ios10
+header
+{VALUE}
+Thank you, we are aware of this bug and it will be fixed in the latest Telegram version. Stay tuned!
+
+{QUESTION}
 How do I print/save messages?
 {KEYS}
 pdf
