@@ -2,6 +2,18 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+I accidentally reported a group I didn't want to report. Help!
+{KEYS}
+accidentalreport
+accreport
+groupreport
+{VALUE}
+If you accidentally reported or left a group you wanted to stay in, you have a couple of options:
+
+- Ask the group owner for an invite link if you know them. They can get this link from the group's profile, then Add Members, then Invite to Group via Link.
+- Get a mutual contact, meaning you have their phone number and you have theirs, to invite you back to the group.
+
+{QUESTION}
 What is Telegram Gold?
 {KEYS}
 gold
