@@ -2,6 +2,20 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+Why is my *asterisk text* showing up as bold? AM ANGERY FIX PLS >:(
+{KEYS}
+markdown
+bold
+asterisk
+actiontext
+{VALUE}
+With the recent update to Telegram Android, Markdown is now supported. This means that text with *asterisks* around it will be come bold, and text with _underscores_ around it will become italic. We have become aware that some of our users use *asterisk* text to denote that they're doing some sort of action (such as when role playing), and aren't happy with this change.
+
+We as volunteers have suggested a "Disable Markdown" option or similar in the Android app, but since we're only volunteers we can't guarantee anything will change. Here are a couple of workaround we have come up with:
+- If you wrap your text ***like this*, it will still show normally with one asterisk (e.g. ***text* will become *text*)
+- You could use _underscores_ to denote an action, since the text will become italic. This is similar to a `/me` command in some other messengers.
+
+{QUESTION}
 I accidentally reported a group I didn't want to report. Help!
 {KEYS}
 accidentalreport
