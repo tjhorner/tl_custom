@@ -2,6 +2,17 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+How do I listen to music on Telegram?
+{KEYS}
+music
+listenmusic
+songs
+{VALUE}
+To listen to a track that was sent to you on Telegram, simply tap the play button on the message and the song will play.
+
+As to where to find music, I am personally not sure. You could ask around or google for Telegram channels that send music. You could also use this bot (it was not made nor endorsed by Telegram) that helps you find music on Spotify: @SpotifyBot
+
+{QUESTION}
 idk what to put for question
 {KEYS}
 notsure
