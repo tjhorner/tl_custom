@@ -2,6 +2,19 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+I see that Telegram is only interested in making better for users and ignores updates for admins, I think it's already time to make the feature of giving over a channel to another account, and make that Android should be able to watermark a video, and make pinned messages on a channel, and to make that only the Admins should be able to see who posted on the channel,and so on.
+
+Telegram admins feel like they are the only one's that are out of the picture, Telegram helps everyone except the Admins
+{KEYS}
+admincomplaints
+{VALUE}
+Hey there,
+
+We hear you. I will pass your suggestions on how to make administrative tools better for channel and supergroup administrators to the Telegram team, and while we can't promise anything, these features will definitely be considered for a future release.
+
+Thanks for your suggestions!
+
+{QUESTION}
 [non-english text]
 {KEYS}
 englishpls
