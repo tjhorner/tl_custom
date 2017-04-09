@@ -2,6 +2,19 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+How do I report a user in Telegram? (Not illegal content - simply reporting)
+{KEYS}
+reportu
+reportuser
+{VALUE}
+If you need to report a user, there are several ways to do so:
+
+- If the user that you would like to report contacted you first and you are not a contact with them, there may be a "Report" button at the top of your chat with them. Tap that, select the appropriate report reason if it gives you the option, and they will be reported.
+- If the report button above doesn't appear, you may then report them to abuse@telegram.org. Make sure to include your phone number, your username (if applicable), their phone number/username (if you have it), and some screenshots of evidence for why they are being reported.
+
+Thank you!
+
+{QUESTION}
 How do I listen to music on Telegram?
 {KEYS}
 music
