@@ -2,6 +2,17 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+How do I withdrawl money?
+{KEYS}
+moneybot
+{VALUE}
+As a general note, bots are made by third-party users and not Telegram themselves. Due to this, us volunteers can't really help you with requests specific to certain bots. Sorry about that! You might be able to ask a friend or use a /help command within the bot to receive support for the bot, though.
+
+Also, you may want to be careful with bots that handle money, as it is very risky to let an unknown third-party perform these types of transactions on your behalf, especially when they have no former reputation. Telegram is releasing a payments API going forward that will remedy this, however, so stay tuned for that!
+
+If you suspect a Telegram bot is performing illegal activities involving monetary transactions (such as pyramid schemes), please do contact abuse@telegram.org with all the details such as the bot's username and some screenshots. As we are only volunteers, we are not trained to deal with illegal cases like these. Thank you for helping make Telegram a safer place!
+
+{QUESTION}
 How do I report a user in Telegram? (Not illegal content - simply reporting)
 {KEYS}
 reportu
