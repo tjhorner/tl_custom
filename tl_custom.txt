@@ -18,7 +18,7 @@ moneybot
 {VALUE}
 As a general note, bots are made by third-party users and not Telegram. Due to this, us volunteers can't really help you with requests specific to certain bots. Sorry about that! You might be able to ask a friend or use a /help command within the bot to receive support for the bot, though.
 
-Also, you may want to be careful with bots that handle money, as it is very risky to let an unknown third-party perform these types of transactions on your behalf, especially when they have no former reputation. Telegram is releasing a payments API going forward that will remedy this, however, so stay tuned for that!
+Also, you may want to be careful with bots that handle money, as it is very risky to let an unknown third-party perform these types of transactions on your behalf, especially when they have no former reputation. Telegram has recently released its own bot payments API with version 4.0 of the app, so that you can securely transfer money to bots. If a bot isn't using this API, then I personally would be pretty suspicious of it.
 
 If you suspect a Telegram bot is performing illegal activities involving monetary transactions (such as pyramid schemes), please do contact abuse@telegram.org with all the details such as the bot's username and some screenshots. As we are only volunteers, we are not trained to deal with illegal cases like these. Thank you for helping make Telegram a safer place!
 
