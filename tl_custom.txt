@@ -2,6 +2,19 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+Why can't others post in my channel?
+{KEYS}
+cg
+channelgroup
+channelconfused
+{VALUE}
+Channels are tools for broadcasting information to large numbers of people, and they can only be posted to by the admins of the channel.
+
+If you are looking for a tool where everyone can discuss, you may want to use groups instead. To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
+
+Each group can have up to 10000 members in Telegram.
+
+{QUESTION}
 How do I disable the sticker/emoji panel on TDesktop?
 {KEYS}
 stickerpanel
