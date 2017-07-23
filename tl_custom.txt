@@ -2,6 +2,23 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+Is there dark mode/themes on iOS?
+{KEYS}
+darkios
+themesios
+themeios
+themei
+themesi
+{VALUE}
+At the moment, there is no way to enable a "dark mode" or to make your own theme on Telegram for iOS, although this is definitely a possibility in the future!
+
+If you wish to use themes, you could use either our desktop or Android app; they have support for themes.
+
+But our alpha Swift app does have early support for a dark theme, if you wish to try it out. But please do note that this is an alpha version of the app, and not everything will work at times. Here's the link: https://rink.hockeyapp.net/apps/c6f5a76f5c364ac89a98b77671ef2d63
+
+To enable the dark theme, go to Settings and choose the dark wallpaper.
+
+{QUESTION}
 Why is my call stuck on "Connecting"?
 {KEYS}
 connecting
