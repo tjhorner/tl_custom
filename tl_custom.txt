@@ -402,3 +402,14 @@ If you don't have any other way to access that Telegram account and don't have a
 If you ever get a new number in the future, please follow these steps to update your Telegram account with the new number:
 
 Go to Telegram Settings > Phone number > Change number > type in your new number. If necessary, enter the code you will receive via an SMS to the new number - done!
+
+{QUESTION}
+I tapped a button on a custom keyboard and now I'm limited.
+{KEYS}
+customkeyboard
+ckeyboard
+ck
+{VALUE}
+Hello! Sorry about this, it seems spammers have started to utilize custom keyboards with their own custom bots. Custom keyboards, in a nutshell, allow bot developers to create their own custom buttons that, when tapped, send the content of those buttons. While these keyboards are usually used for good (to enable bot functionality), they can also be abused. Our spam and abuse team is aware of the issue and are working to prevent this.
+
+In the meantime, please talk to @spambot to appeal your restrictions. My advice is, until it is fixed, do not tap these buttons (you can bring your normal keyboard back by tapping the keyboard button next to the paperclip).
