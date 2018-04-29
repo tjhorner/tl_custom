@@ -2,6 +2,16 @@
 https://raw.githubusercontent.com/tjhorner/tl_custom/master/tl_custom.txt
 
 {QUESTION}
+Telegram is blocked in Iran wtf???????????????????????????????
+{KEYS}
+iran
+iranblock
+{VALUE}
+The reason you are not able to connect to Telegram is likely due to a major data center outage as of late: https://twitter.com/telegram/status/990474364108894209
+
+Please follow our Twitter account for updates regarding these issues. Sorry for any inconvenience!
+
+{QUESTION}
 Jesus christ Telegram is down what the hell do I do?????
 {KEYS}
 tdown
