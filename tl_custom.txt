@@ -68,7 +68,7 @@ Channels are tools for broadcasting information to large numbers of people, and 
 
 If you are looking for a tool where everyone can discuss, you may want to use groups instead. To create a group on iOS, start a new message (tap the icon in the top-right corner in Chats), then 'New Group'.
 
-Each group can have up to 10000 members in Telegram.
+Each group can have up to 100000 members in Telegram.
 
 {QUESTION}
 How do I disable the sticker/emoji panel on TDesktop?
